@@ -27,7 +27,7 @@ A quick visual of the technologies I utilize most often:
 ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ---
-### :speech_bubble: Get In Touch
+
 I am always keen to connect with fellow engineers, discuss technical architecture, or explore new challenges.
 > "Code is read many more times than it is written. Write it well."
 ### :wave: Thanks for stopping by!
